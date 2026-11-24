@@ -1,0 +1,10 @@
+amazon.com
+skynova.com.br
+github.com
+python.org
+example.com
+httpbin.org/status/404
+dominio-que-nao-existe-12345.com
+google.com
+stackoverflow.com
+site-invalido-teste-9999.com.br

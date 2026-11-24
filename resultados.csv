@@ -1,0 +1,11 @@
+﻿dominio,ip,status_http,erro,consultado_em
+amazon.com,98.87.170.71,202,,2026-11-24T18:58:43+00:00
+skynova.com.br,192.124.249.130,200,,2026-11-24T18:58:43+00:00
+github.com,4.228.31.150,200,,2026-11-24T18:58:43+00:00
+python.org,151.101.192.223,200,,2026-11-24T18:58:43+00:00
+example.com,104.20.23.154,200,,2026-11-24T18:58:43+00:00
+httpbin.org/status/404,54.172.45.38,404,,2026-11-24T18:58:43+00:00
+dominio-que-nao-existe-12345.com,,ERRO,DNS/IP: [Errno 11001] getaddrinfo failed,2026-11-24T18:58:43+00:00
+google.com,142.250.219.238,200,,2026-11-24T18:58:43+00:00
+stackoverflow.com,198.252.206.1,403,,2026-11-24T18:58:43+00:00
+site-invalido-teste-9999.com.br,,ERRO,DNS/IP: [Errno 11001] getaddrinfo failed,2026-11-24T18:58:43+00:00
